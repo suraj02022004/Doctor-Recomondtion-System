@@ -1,0 +1,7 @@
+patient_name,age,gender,phone,email,consultation_type,insurance_provider,existing_conditions,symptoms,medical_history,preferred_location,created_at
+Test User,29,Male,9999999999,test@example.com,Online,ABC,Asthma,cough and breathing issue,asthma,Pune,2026-04-10T15:36:41.466081+00:00
+A,0,,,,,,,chest pain,bp,Delhi,2026-04-10T15:47:26.766400+00:00
+abx ,30,Male,+91988998890,praveenkumarchaudhary52m@gmail.com,In-person,bajaj allaianz,Heart Disease|Asthma,cough from past 10 days and chest pain ,chest pain and bleeding in cough ,patna,2026-04-10T15:59:07.052149+00:00
+Hemant Kumar,23,Male,+91629998000,hemu@gmail.com,In-person,,Heart Disease,Chest pain,Asthama and heear disease from past 6 years ,Patna,2026-04-11T03:41:18.191286+00:00
+Hemant Kumar,23,Male,+91629998000,hemu@gmail.com,In-person,,Heart Disease,Chest pain,Asthama and heear disease from past 6 years ,Delhi,2026-04-11T03:42:03.147000+00:00
+Hemant Kumar,23,Male,+91629998000,hemu@gmail.com,In-person,,,Fever,not any,Patna,2026-04-11T03:46:07.374104+00:00

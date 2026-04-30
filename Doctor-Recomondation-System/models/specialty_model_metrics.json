@@ -1,0 +1,134 @@
+{
+  "algorithm": "Pure Python Logistic Regression",
+  "source_dataset": "C:\\Users\\Suraj\\OneDrive\\Desktop\\Doctor-Recomondation-System\\Doctor-Recomondation-System\\data\\doctors.csv",
+  "doctor_rows": 120,
+  "training_rows": 360,
+  "classes": 20,
+  "class_names": [
+    "Cardiologist",
+    "Dentist",
+    "Dermatologist",
+    "ENT Specialist",
+    "Endocrinologist",
+    "Gastroenterologist",
+    "General Physician",
+    "Gynecologist",
+    "Hematologist",
+    "Nephrologist",
+    "Neurologist",
+    "Oncologist",
+    "Ophthalmologist",
+    "Orthopedic Surgeon",
+    "Pediatrician",
+    "Physiotherapist",
+    "Psychiatrist",
+    "Pulmonologist",
+    "Rheumatologist",
+    "Urologist"
+  ],
+  "train_accuracy": 1.0,
+  "classification_report": {
+    "Cardiologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Dentist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Dermatologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "ENT Specialist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Endocrinologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Gastroenterologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "General Physician": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Gynecologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Hematologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Nephrologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Neurologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Oncologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Ophthalmologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Orthopedic Surgeon": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Pediatrician": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Physiotherapist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Psychiatrist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Pulmonologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Rheumatologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "Urologist": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    }
+  },
+  "model_path": "C:\\Users\\Suraj\\OneDrive\\Desktop\\Doctor-Recomondation-System\\Doctor-Recomondation-System\\models\\specialty_model.joblib",
+  "saved_with": "pickle"
+}
